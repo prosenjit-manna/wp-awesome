@@ -1,4 +1,6 @@
 # wp-awesome
+## Theme 
+- Astra - https://wordpress.org/themes/astra/
 
 ## Plugins 
 - WP3 Total cache - https://wordpress.org/plugins/w3-total-cache/
