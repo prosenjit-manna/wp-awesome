@@ -8,7 +8,6 @@
 - Updraftplus - backup plugin - https://wordpress.org/plugins/updraftplus/
 - Advacned Custom Fields Pro - https://www.advancedcustomfields.com/pro/
 - Mail configure - https://wordpress.org/plugins/wp-mail-smtp/ 
-- Contact form - https://wordpress.org/plugins/contact-form-7/
-- Contact form 7 db - https://wordpress.org/plugins/contact-form-cfdb7/
+- Sure Form - https://wordpress.org/plugins/sureforms/ 
 - Blocks and templates - https://wordpress.org/plugins/astra-sites/
 - Ultimate addons for guttenberg blocks - https://wordpress.org/plugins/ultimate-addons-for-gutenberg/
