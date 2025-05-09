@@ -10,3 +10,5 @@
 - Mail configure - https://wordpress.org/plugins/wp-mail-smtp/ 
 - Contact form - https://wordpress.org/plugins/contact-form-7/
 - Contact form 7 db - https://wordpress.org/plugins/contact-form-cfdb7/
+- Blocks and templates - https://wordpress.org/plugins/astra-sites/
+- Ultimate addons for guttenberg blocks - https://wordpress.org/plugins/ultimate-addons-for-gutenberg/
